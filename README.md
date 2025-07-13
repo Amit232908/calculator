@@ -10,7 +10,7 @@ This is a basic calculator built using **HTML**, **CSS**, and **JavaScript**. It
 
 ## 🚀 Live Demo
 
-
+https://arth-calculator.netlify.app/
 
 ## 🖥️ Disclaimer
 
