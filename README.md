@@ -12,7 +12,3 @@ This is a basic calculator built using **HTML**, **CSS**, and **JavaScript**. It
 
 https://arth-calculator.netlify.app/
 
-## 🖥️ Disclaimer
-
-> ⚠️ This calculator is currently optimized **only for laptop or tablet screens**.  
-
