@@ -12,3 +12,4 @@ This is a basic calculator built using **HTML**, **CSS**, and **JavaScript**. It
 
 https://arth-calculator.netlify.app/
 
+![Image](https://github.com/user-attachments/assets/4cfd291a-e5c8-4ad5-84ff-c460ac4cf0e4)
